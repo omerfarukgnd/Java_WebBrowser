@@ -1,2 +1,2 @@
 # Java_WebBrowser
-Java Web Browser
+Web Browser was built with Java and Javafx
